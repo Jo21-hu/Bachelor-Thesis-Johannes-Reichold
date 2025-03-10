@@ -39,8 +39,6 @@ See the plot in the sub-level repository.
 
 ## Project structure
 
-(Here is an example from SMART_HOME_N_ENERGY, [Appliance Level Load Prediction](https://github.com/Humboldt-WI/dissertations/tree/main/SMART_HOME_N_ENERGY/Appliance%20Level%20Load%20Prediction) dissertation)
-
 ```bash
 ├── README.md
 ├── requirements.txt                                -- required libraries
