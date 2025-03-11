@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Results
 
-See the plot in the sub-level repository.
+See the plots in the file code_bachelor_thesis.ipynb in the repository.
 
 ## Project structure
 
