@@ -1,7 +1,6 @@
-# Bachelor-Thesis-Johannes-Reichold
-# Title
+# ML-based panel data model for analysing and predicting customer purchasing behaviour
 
-**Type:** Bachelor Thesis
+Bachelor Thesis
 
 **Author:** Johannes Reichold
 
